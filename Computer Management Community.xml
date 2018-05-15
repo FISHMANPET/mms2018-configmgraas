@@ -1,0 +1,16 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS0003R" RoleName="Computer Management Community" RoleDescription="This serves to be the default role based permission set for Computer Management Community Members">
+    <Operations>
+      <Operation GrantedOperations="268435473" ObjectTypeID="2" />
+      <Operation GrantedOperations="1" ObjectTypeID="7" />
+      <Operation GrantedOperations="1" ObjectTypeID="18" />
+      <Operation GrantedOperations="1" ObjectTypeID="19" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="20" />
+      <Operation GrantedOperations="17" ObjectTypeID="23" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="25" />
+      <Operation GrantedOperations="1" ObjectTypeID="29" />
+      <Operation GrantedOperations="268435473" ObjectTypeID="31" />
+      <Operation GrantedOperations="1" ObjectTypeID="32" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>

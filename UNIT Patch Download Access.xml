@@ -1,0 +1,9 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS000AR" RoleName="UNIT Patch Download Access" RoleDescription="">
+    <Operations>
+      <Operation GrantedOperations="1031" ObjectTypeID="24" />
+      <Operation GrantedOperations="1031" ObjectTypeID="34" />
+      <Operation GrantedOperations="268436481" ObjectTypeID="37" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>

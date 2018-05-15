@@ -1,0 +1,7 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS0004R" RoleName="OIT-Desktop Support" RoleDescription="This is a scope for the OIT Zones.">
+    <Operations>
+      <Operation GrantedOperations="131" ObjectTypeID="1" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>

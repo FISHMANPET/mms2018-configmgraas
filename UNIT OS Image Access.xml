@@ -1,0 +1,9 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS000AR" RoleName="UNIT OS Image Access" RoleDescription="">
+    <Operations>
+      <Operation GrantedOperations="9239" ObjectTypeID="18" />
+      <Operation GrantedOperations="9239" ObjectTypeID="19" />
+      <Operation GrantedOperations="1048576" ObjectTypeID="20" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>

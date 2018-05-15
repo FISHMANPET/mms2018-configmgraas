@@ -1,0 +1,46 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS0002R" RoleName="UNIT Helpdesk" RoleDescription="This serves to be the default role based permission set for UNIT Helpdesk.&#xD;&#xA;&#xD;&#xA;Function is read access to resources with remote tools">
+    <Operations>
+      <Operation GrantedOperations="16816161" ObjectTypeID="1" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="2" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="4" />
+      <Operation GrantedOperations="269484033" ObjectTypeID="6" />
+      <Operation GrantedOperations="1" ObjectTypeID="7" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="9" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="11" />
+      <Operation GrantedOperations="1" ObjectTypeID="14" />
+      <Operation GrantedOperations="1" ObjectTypeID="15" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="17" />
+      <Operation GrantedOperations="1" ObjectTypeID="18" />
+      <Operation GrantedOperations="1" ObjectTypeID="19" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="20" />
+      <Operation GrantedOperations="1" ObjectTypeID="21" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="22" />
+      <Operation GrantedOperations="1" ObjectTypeID="23" />
+      <Operation GrantedOperations="1" ObjectTypeID="24" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="25" />
+      <Operation GrantedOperations="134217728" ObjectTypeID="26" />
+      <Operation GrantedOperations="1" ObjectTypeID="27" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="28" />
+      <Operation GrantedOperations="1" ObjectTypeID="29" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="30" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="31" />
+      <Operation GrantedOperations="1" ObjectTypeID="32" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="33" />
+      <Operation GrantedOperations="1" ObjectTypeID="34" />
+      <Operation GrantedOperations="1" ObjectTypeID="36" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="37" />
+      <Operation GrantedOperations="1" ObjectTypeID="38" />
+      <Operation GrantedOperations="1" ObjectTypeID="40" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="41" />
+      <Operation GrantedOperations="1" ObjectTypeID="42" />
+      <Operation GrantedOperations="1" ObjectTypeID="43" />
+      <Operation GrantedOperations="268435457" ObjectTypeID="44" />
+      <Operation GrantedOperations="1" ObjectTypeID="45" />
+      <Operation GrantedOperations="1" ObjectTypeID="46" />
+      <Operation GrantedOperations="268697601" ObjectTypeID="47" />
+      <Operation GrantedOperations="1" ObjectTypeID="48" />
+      <Operation GrantedOperations="1" ObjectTypeID="50" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>
