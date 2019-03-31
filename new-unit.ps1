@@ -88,7 +88,7 @@ $obj = $ou.Replace(',','\,').Split('/')
 for ($i = $obj.count - 2;$i -ge 1;$i--){$DN += ",OU=" + $obj[$i]}
 $obj[0].split(".") | ForEach-Object { $DN += ",DC=" + $_}
 
-if (-not (Get-ADOrganizationalUnit -LDAPFilter "(distinguishedname=$dn)")) {
+if (-not (Get-ADOrganizationalUnit -LDAPFilter "(distinguishedname=$DN)")) {
     Write-Error "OU $ou doesn't exist, aborting"
     return
 }
